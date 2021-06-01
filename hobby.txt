@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <title>Anupma's website</title>
+  </head>
+  <body bgcolor="pink">
+    <script src="script.js"></script>
+<h2>Hobbies</h2>
+    <ul type="">
+      <li><a href="https://www.liveabout.com/what-is-contemporary-dance-1007423#:~:text=Contemporary%20dance%20is%20a%20style,body%20through%20fluid%20dance%20movements.">dancing</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Narration">story narration</a></li>
+      <li><a href="https://eurama.hu/2017/02/08/benefits-of-travelling/">travelling</a></li>
+      <li><a href="https://www.youtube.com/movies">movies</a></li>
+    </ul>
+  </body>
+  </html>
